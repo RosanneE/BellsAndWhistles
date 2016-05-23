@@ -1,0 +1,22 @@
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,600);
+
+@import url(https://fonts.googleapis.com/css?family=Sacramento);
+.nav li {
+  display: inline;
+  color: #330033;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron h1 {
+  color: #4B01;
+  font-family: 'Sacramento', sans-serif;
+  font-size: 70px;
+  b
+}
+
+.jumbotron p {
+  color: #330033;
+  font-family: 'Raleway', sans-serif;
+}
